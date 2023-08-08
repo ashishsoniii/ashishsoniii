@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ashishsoniii
+- ✨ Open Source Student developer (Google Summer of Code'23) @ The Tor Project 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to contribute in open source
-- 📫 Intract with me -->> ashishsoni2002@gmail.com
+- 📫 Interact with me -->> ashishsoni2002@gmail.com
 
 <!---
 ashishsoniii/ashishsoniii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
