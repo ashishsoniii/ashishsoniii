@@ -1,6 +1,5 @@
 # Hello, I'm Ashish Soni 👨‍💻🚀
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding GIF" >
 
 ## 🚀 About Me
 
