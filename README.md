@@ -24,7 +24,7 @@ I'm a passionate Frontend Developer 🖥️ and an avid contributor to open-sour
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-Link)
-[![ashishsoni.tech](https://img.shields.io/badge/-ashishsoni.studio-0A10A0?style=for-the-badge&logo=icon&logoColor=white)](https://www.ashishsoni.tech/)
+[![ashishsoni.tech](https://img.shields.io/badge/-ashishsoni.tech-0A10A0?style=for-the-badge&logo=icon&logoColor=white)](https://www.ashishsoni.tech/)
 [![Twitter](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ashishsoni_1)
 [![Email](https://img.shields.io/badge/-ashishsoni2002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishsoni2002@gmail.com)
 [![GitLab](https://img.shields.io/badge/-GitLab-purple?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.torproject.org/ashishsoniii/)
